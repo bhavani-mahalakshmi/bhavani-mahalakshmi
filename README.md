@@ -33,29 +33,6 @@
 
 ---
 
-## 🚀 Projects
-
-### Live Face Recognition Application with AWS
-- Engineered a distributed application using AWS Lambda, EC2, ECR, and Raspberry Pi-based IoT device, achieving real-time facial recognition with 97% accuracy.
-- Utilized S3 and DynamoDB as Datastores for storing persistent data, achieving a data transfer latency of less than 3 seconds.
-
-### Personality Classification with Social Media
-- Utilized SVD-clustering and linear regression for predicting users' leadership qualities based on personality traits, achieving 98% accuracy.
-- Extracted user sentiment from likes data using R's syuzhet package.
-
-### Configurable Filters on Air Plan Page
-- Implemented Customizable Filter Groups with GraphQL APIs, Java Spring backend, and React.js frontend, reducing user interactions from 14 clicks to 4.
-- Improved the user experience by reducing build plan generation time from 45 seconds to under 10 seconds.
-
-### Multi-Factor Authentication System
-- Developed and integrated a Python Flask microservice for Multi-Factor Authentication in Grafana, leveraging PyOTP and Argon2 for secure OTP generation.
-
-### Scalable Data Processing and Analysis on NYC Taxi Rides Dataset
-- Implemented a fault-tolerant architecture for streaming data processing and analysis using PageRank and Breadth-First Search algorithms.
-- Deployed a Kafka cluster on Kubernetes using Minikube for near real-time processing and analytics.
-
----
-
 ## 🎓 Education
 
 - **Masters, Computer Science**
