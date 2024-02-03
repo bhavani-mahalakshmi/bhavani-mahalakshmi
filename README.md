@@ -33,18 +33,6 @@
 
 ---
 
-## 🎓 Education
-
-- **Masters, Computer Science**
-  - Arizona State University (Aug 2021 - May 2023)
-  - GPA: 4.0/4.0
-
-- **Bachelor of Engineering, Computer Science**
-  - Madras Institute of Technology, Anna University (Jul 2014 - May 2018)
-  - GPA: 3.75/4.0
-
----
-
 ## 💼 Skills
 
 ### Programming
